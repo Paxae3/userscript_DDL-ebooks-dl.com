@@ -6,7 +6,7 @@
 // @icon        http://ebook-dl.com/assets/images/favicon.png
 // @require     https://code.jquery.com/jquery-3.1.1.min.js
 // @updateURL   https://openuserjs.org/meta/Paxae3/DDLebook-dl.com.meta.js
-// @date        03.04.2017
+// @date        03.05.2017
 // @version     1.3.1
 // @author      Paxae3
 // @copyright   2017, Paxae3
