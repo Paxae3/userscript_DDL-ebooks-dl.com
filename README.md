@@ -20,4 +20,8 @@ History:
   - better identification of target links
   - added icons for successful/pending/failed downloads
 
+1.3.1 [03.05.2017]
+
+  - fixed code error  
+
 
